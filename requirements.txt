@@ -1,0 +1,3 @@
+firecrawl-py
+azure-cognitiveservices-speech
+openai
